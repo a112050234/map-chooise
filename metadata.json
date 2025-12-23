@@ -1,0 +1,7 @@
+{
+  "name": "Taipei Nature Explorer",
+  "description": "An AI-powered discovery tool for exploring Taipei's attractions, combining real-time data from the Taipei Travel API with Gemini's intelligent insights and grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
